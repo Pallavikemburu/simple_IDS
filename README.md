@@ -1,7 +1,7 @@
 # simple_IDS
 
 
-#Description :
+DESCRIPTION : 
 
 This project is a simple Intrusion Detection System (IDS) that monitors network traffic in real time, aiming to detect potential security threats like Distributed Denial of Service (DDoS) attacks. It captures packets using the PyShark library, analyzes key packet attributes (such as source and destination IP addresses and protocol type), and flags traffic that fits the profile of known threat patterns. 
 
